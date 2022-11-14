@@ -1,0 +1,253 @@
+{
+    "users": [{
+            "id": 1,
+            "userName": "admin",
+            "passWord": "123",
+            "dogumBilgileri": [{
+                "dogumTarihi": "24/07/2000",
+                "dogumYeri": "Beyoğlu",
+                "dogumSaati": "07.15",
+                "dogumSehir": "İstanbul"
+            }],
+            "yasadigiYer": {
+                "adres": "çengelköy",
+                "binaKodu": "4287765",
+                "binaNo": "12",
+                "bolge": 45,
+                "lat": 37.63222,
+                "lng": 35.58528,
+                "il": "istanbul",
+                "ilKodu": 34,
+                "ilce": "uskudar",
+                "isinmaTipi": "doğalgaz",
+                "mahalle": "çengelköy"
+            },
+            "sevdigiYemekler": [{
+                "fastFood": [{
+                        "yagli": "patates",
+                        "img": "https://st1.myideasoft.com/shop/ar/58/myassets/products/065/1000x1000.jpg?revision=1590955234",
+                        "price": "10",
+                        "description": "yağlı ve zararlı"
+                    },
+                    {
+                        "yagli": "ezogelin",
+                        "img": "https://w7.pngwing.com/pngs/281/2/png-transparent-kaynarca-sakarya-ezogelin-soup-gravy-bisque-others-soup-food-recipe.png",
+                        "price": "15",
+                        "description": "limon sıkmayı ihmal etme"
+                    },
+                    {
+                        "yagli": "çiğ köfte",
+                        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%C3%87i%C4%9F_K%C3%B6fte_Itanbul_Develi_Kalam%C4%B1%C5%9F_%281%29.jpg/200px-%C3%87i%C4%9F_K%C3%B6fte_Itanbul_Develi_Kalam%C4%B1%C5%9F_%281%29.jpg",
+                        "price": "lavaş yerine göbek iste"
+                    },
+                    {
+                        "yagli": "kebap",
+                        "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adana_kebab.jpg",
+                        "price": "65",
+                        "description": "kış geldi dürüm zamanı"
+                    }
+                ],
+                "meyve": [{
+                        "kabuklu": "elma"
+                    },
+                    {
+                        "kabuksuz": "üzüm"
+                    }
+                ],
+                "sebze": [{
+                    "eksi": "turşu",
+                    "tatli": "maydonoz"
+                }]
+            }]
+        },
+        {
+            "id": 2,
+            "userName": "akif",
+            "passWord": "123",
+            "mail": "akif@gmail.com",
+            "dogumBilgileri": [{
+                "dogumTarihi": "24/07/2000",
+                "dogumYeri": "Beyoğlu",
+                "dogumSaati": "07.15",
+                "dogumSehir": "İstanbul"
+            }],
+            "yasadigiYer": {
+                "adres": "güzeltepe",
+                "binaKodu": "4287765",
+                "binaNo": "22",
+                "bolge": 45,
+                "lat": 38.43222,
+                "lng": 35.56528,
+                "il": "istanbul",
+                "ilKodu": 34,
+                "ilce": "uskudar",
+                "isinmaTipi": "doğalgaz",
+                "mahalle": "güzeltepe"
+            },
+            "sevdigiYemekler": [{
+                "fastFood": [{
+                        "yagli": "patates",
+                        "img": "https://st1.myideasoft.com/shop/ar/58/myassets/products/065/1000x1000.jpg?revision=1590955234",
+                        "price": "10",
+                        "description": "yağlı ve zararlı"
+                    },
+                    {
+                        "yagli": "ezogelin",
+                        "img": "https://w7.pngwing.com/pngs/281/2/png-transparent-kaynarca-sakarya-ezogelin-soup-gravy-bisque-others-soup-food-recipe.png",
+                        "price": "15",
+                        "description": "limon sıkmayı ihmal etme"
+                    },
+                    {
+                        "yagli": "çiğ köfte",
+                        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%C3%87i%C4%9F_K%C3%B6fte_Itanbul_Develi_Kalam%C4%B1%C5%9F_%281%29.jpg/200px-%C3%87i%C4%9F_K%C3%B6fte_Itanbul_Develi_Kalam%C4%B1%C5%9F_%281%29.jpg",
+                        "price": "lavaş yerine göbek iste"
+                    },
+                    {
+                        "yagli": "kebap",
+                        "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adana_kebab.jpg",
+                        "price": "65",
+                        "description": "kış geldi dürüm zamanı"
+                    }
+                ],
+                "meyve": [{
+                        "kabuklu": "elma"
+                    },
+                    {
+                        "kabuksuz": "üzüm"
+                    }
+                ],
+                "sebze": [{
+                    "eksi": "turşu",
+                    "tatli": "maydonoz"
+                }]
+            }]
+        },
+        {
+            "id": 3,
+            "userName": "emre",
+            "passWord": "123",
+            "dogumBilgileri": [{
+                "dogumTarihi": "24/07/2000",
+                "dogumYeri": "Beyoğlu",
+                "dogumSaati": "07.15",
+                "dogumSehir": "İstanbul"
+            }],
+            "yasadigiYer": {
+                "adres": "esen",
+                "binaKodu": "4287765",
+                "binaNo": "12",
+                "bolge": 45,
+                "lat": 38.73222,
+                "lng": 35.52528,
+                "il": "istanbul",
+                "ilKodu": 34,
+                "ilce": "uskudar",
+                "isinmaTipi": "doğalgaz",
+                "mahalle": "esen"
+            },
+            "sevdigiYemekler": [{
+                "fastFood": [{
+                        "yagli": "cips",
+                        "img": "https://cdn.akakce.com/z/lays/lay-s-yogurt-mevsim-yesillikleri-parti-boy-150-g.jpg",
+                        "price": "14",
+                        "description": "yağlı ve zararlı"
+                    },
+                    {
+                        "yagli": "ekmek",
+                        "img": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2-1650x1650.jpg",
+                        "price": "4.5",
+                        "description": "hamur göbek yapar"
+                    },
+                    {
+                        "yagli": "köfte",
+                        "img": "https://cdn.yemek.com/mnresize/1250/833/uploads/2022/03/ev-koftesi-yemekcom.jpg",
+                        "price": "ketçap sıkmayı unutma"
+                    },
+                    {
+                        "yagli": "muz",
+                        "img": "https://www.cagri.com/Uploads/UrunResimleri/buyuk/muz-yerli-kg-4498-8.jpg",
+                        "price": "65",
+                        "description": "çikolata sosu iyi gider"
+                    }
+                ],
+                "meyve": [{
+                        "kabuklu": "elma"
+                    },
+                    {
+                        "kabuksuz": "üzüm"
+                    }
+                ],
+                "sebze": [{
+                    "eksi": "turşu",
+                    "tatli": "maydonoz"
+                }]
+            }]
+        },
+        {
+            "id": 4,
+            "userName": "sanver",
+            "passWord": "123",
+            "dogumBilgileri": [{
+                "dogumTarihi": "24/07/2000",
+                "dogumYeri": "Beyoğlu",
+                "dogumSaati": "07.15",
+                "dogumSehir": "İstanbul"
+            }],
+            "yasadigiYer": {
+                "adres": "rumeli",
+                "binaKodu": "4287765",
+                "binaNo": "12",
+                "bolge": 45,
+                "lat": 38.73222,
+                "lng": 35.54528,
+                "il": "istanbul",
+                "ilKodu": 34,
+                "ilce": "uskudar",
+                "isinmaTipi": "doğalgaz",
+                "mahalle": "rumeli"
+            },
+            "sevdigiYemekler": [{
+                "fastFood": [{
+                        "yagli": "patates",
+                        "img": "https://st1.myideasoft.com/shop/ar/58/myassets/products/065/1000x1000.jpg?revision=1590955234",
+                        "price": "10",
+                        "description": "yağlı ve zararlı"
+                    },
+                    {
+                        "yagli": "ezogelin",
+                        "img": "https://w7.pngwing.com/pngs/281/2/png-transparent-kaynarca-sakarya-ezogelin-soup-gravy-bisque-others-soup-food-recipe.png",
+                        "price": "15",
+                        "description": "limon sıkmayı ihmal etme"
+                    },
+                    {
+                        "yagli": "çiğ köfte",
+                        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%C3%87i%C4%9F_K%C3%B6fte_Itanbul_Develi_Kalam%C4%B1%C5%9F_%281%29.jpg/200px-%C3%87i%C4%9F_K%C3%B6fte_Itanbul_Develi_Kalam%C4%B1%C5%9F_%281%29.jpg",
+                        "price": "lavaş yerine göbek iste"
+                    },
+                    {
+                        "yagli": "kebap",
+                        "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Adana_kebab.jpg",
+                        "price": "65",
+                        "description": "kış geldi dürüm zamanı"
+                    }
+                ],
+                "meyve": [{
+                        "kabuklu": "elma"
+                    },
+                    {
+                        "kabuksuz": "üzüm"
+                    }
+                ],
+                "sebze": [{
+                    "eksi": "turşu",
+                    "tatli": "maydonoz"
+                }]
+            }]
+        },
+        {
+            "userName": "ahmet",
+            "passWord": "123",
+            "id": 5
+        }
+    ]
+}
